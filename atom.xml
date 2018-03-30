@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Niffler</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-30T09:41:51.509Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Σ(っ °Д °;)っ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World :)&amp;&amp;一些笔记</title>
+    <link href="http://yoursite.com/2018/03/29/hello-world/"/>
+    <id>http://yoursite.com/2018/03/29/hello-world/</id>
+    <published>2018-03-28T16:09:38.998Z</published>
+    <updated>2018-03-30T09:41:51.509Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p>&#x2003;&#x2003;&#x6628;&#x5929;&#x770B;&#x4E86;&#x5927;&#x9EC4;&#x7684;&#x535A;&#x5BA2;,&#x89C9;&#x5F97;&#x975E;&#x5E38;&#x597D;&#x770B;,&#x5341;&#x5206;&#x7FA1;&#x6155;&#x554A;@w@,&#x4E8E;&#x662F;&#x62BD;&#x7A7A;&#x5C06;&#x5C0F;&#x7AD9;&#x7684;&#x96CF;&#x5F62;&#x642D;&#x4E86;&#x51FA;&#x6765;..&#x5176;&#x5B9E;&#x5BD2;&#x5047;&#x4E4B;&#x524D;&#x4E5F;&#x5C1D;&#x8BD5;&#x642D;&#x8FC7;&#x4E00;&#x4E2A;Pacman&#x4E3B;&#x9898;&#x7684;blog&#x2026;&#x4F46;&#x662F;..&#x4F46;&#x662F;&#x2026;&#x88AB;&#x4E09;&#x5206;&#x949F;&#x70ED;&#x5EA6;&#x53C8;&#x6781;&#x5EA6;&#x61D2;&#x60F0;&#x7684;&#x6211;&#x8352;&#x5E9F;&#x4E86;orz&#x2026;&#x4E0D;&#x8FC7;&#x60F3;&#x60F3;,&#x80FD;&#x591F;&#x5C06;&#x81EA;&#x5DF1;&#x5B66;&#x4E60;&#x7684;&#x70B9;&#x70B9;&#x6EF4;&#x6EF4;&#x8BB0;&#x5F55;&#x4E0B;&#x6765;,&#x65F6;&#x65F6;&#x56DE;&#x987E;,&#x4E5F;&#x662F;&#x4E00;&#x4EF6;&#x975E;&#x5E38;&#x6709;&#x610F;&#x4E49;&#x7684;&#x4E8B;<em>(:&#x437;&#x300D;&#x2220;)</em>&#x5E0C;&#x671B;&#x8FD9;&#x6B21;&#x80FD;&#x575A;&#x6301;&#x4E0B;&#x6765;(&#x7ACB;&#x4E2A;flag),&#x6C42;myy&#x548C;gmn&#x7763;&#x4FC3;&#x6211;!!!<br>&#x2003;&#x2003;live2d&#x770B;&#x677F;&#x5A18;&#x4E0D;&#x600E;&#x4E48;&#x4F1A;&#x914D;&#x7F6E;&#x2026;&#x53EF;&#x80FD;&#x63D2;&#x4EF6;&#x88AB;&#x7981;&#x6B62;&#x4E86;&#x2026;&#x4E0D;&#x8FC7;&#x59B9;&#x5B50;&#x8D85;&#x53EF;&#x7231;!!!</p><h2 id="OJ"><a href="#OJ" class="headerlink" title="OJ"></a>OJ</h2><h3 id="&#x53C8;&#x53C8;&#x53C8;"><a href="#&#x53C8;&#x53C8;&#x53C8;" class="headerlink" title="&#x53C8;&#x53C8;&#x53C8;"></a>&#x53C8;&#x53C8;&#x53C8;</h3><figure class="highlight stylus"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">div</span><span class="selector-class">.tall</span><span class="selector-class">.wealthy</span><span class="selector-class">.handsome</span>{</span><br><span class="line">    ...</span><br><span class="line">}</span><br><span class="line"><span class="comment">//&#x53C8;&#x9AD8;&#x53C8;&#x5BCC;&#x53C8;&#x5E05;&#x7684;div</span></span><br></pre></td></tr></tbody></table></figure><h3 id="&#x6B63;&#x5219;&#x5339;&#x914D;&#x4E24;&#x7AEF;&#x7A7A;&#x683C;"><a href="#&#x6B63;&#x5219;&#x5339;&#x914D;&#x4E24;&#x7AEF;&#x7A7A;&#x683C;" class="headerlink" title="&#x6B63;&#x5219;&#x5339;&#x914D;&#x4E24;&#x7AEF;&#x7A7A;&#x683C;"></a>&#x6B63;&#x5219;&#x5339;&#x914D;&#x4E24;&#x7AEF;&#x7A7A;&#x683C;</h3><figure class="highlight gcode"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/<span class="comment">(^s\*)</span>|<span class="comment">(s\*$)</span>/g</span><br></pre></td></tr></tbody></table></figure><h3 id="async-await"><a href="#async-await" class="headerlink" title="async/await"></a>async/await</h3><figure class="highlight javascript"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">async</span> <span class="function"><span class="keyword">function</span> <span class="title">run</span> (<span class="params"></span>) </span>{</span><br><span class="line">  <span class="built_in">console</span>.log(<span class="string">&apos;Hello&apos;</span>)</span><br><span class="line">  <span class="keyword">await</span> pause(<span class="number">1000</span>) <span class="comment">// &#x7EED;&#x4E00;&#x79D2;</span></span><br><span class="line">  <span class="built_in">console</span>.log(<span class="string">&apos;World&apos;</span>) <span class="comment">// &#x4E00;&#x79D2;&#x4EE5;&#x540E;&#x7EE7;&#x7EED;&#x8FD0;&#x884C;</span></span><br><span class="line">}</span><br><span class="line"><span class="keyword">const</span> pause = <span class="keyword">async</span> (time) =&gt; <span class="keyword">new</span> <span class="built_in">Promise</span>(<span class="function">(<span class="params">resolve</span>) =&gt;</span> {</span><br><span class="line">  setTimeout(<span class="function"><span class="params">()</span> =&gt;</span> resolve(), time)</span><br><span class="line">})</span><br></pre></td></tr></tbody></table></figure><h2 id="Codewars"><a href="#Codewars" class="headerlink" title="Codewars"></a>Codewars</h2><h3 id="Only-4-or-6-digit-PIN-codes-valid"><a href="#Only-4-or-6-digit-PIN-codes-valid" class="headerlink" title="Only 4 or 6 digit PIN codes valid"></a>Only 4 or 6 digit PIN codes valid</h3><figure class="highlight tex"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">const validatePIN = pin =&gt; /^(<span class="tag">\<span class="name">d</span><span class="string">{4}</span></span><span class="formula">$|<span class="tag">\<span class="name">d</span><span class="string">{6}</span></span>$</span>)/.test(pin);</span><br></pre></td></tr></tbody></table></figure><p>&#x2003;&#x2003;&#x81EA;&#x5DF1;&#x5199;&#x4E86;&#x597D;&#x51E0;&#x884C;&#x7684;&#x4EE3;&#x7801;&#x2026;.&#x4EBA;&#x5BB6;&#x4E00;&#x884C;&#x641E;&#x5B9A;&#x2026;&#x6709;&#x5FC5;&#x8981;&#x597D;&#x597D;&#x5B66;&#x4E60;&#x4E0B;&#x6B63;&#x5219;(&#x8BA4;&#x771F;&#x8138;)&#x3002;</p><p></p><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({});</script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&amp;#x2003;&amp;#x2003;&amp;#x6628;&amp;#x5929;&amp;#x770B;&amp;#x4E86;&amp;#x5927;&amp;#x9EC4;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;,&amp;#x89C9;&amp;#x5F97;&amp;#x975
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="OJ" scheme="http://yoursite.com/tags/OJ/"/>
+    
+      <category term="Codewars" scheme="http://yoursite.com/tags/Codewars/"/>
+    
+      <category term="正则" scheme="http://yoursite.com/tags/%E6%AD%A3%E5%88%99/"/>
+    
+      <category term="异步" scheme="http://yoursite.com/tags/%E5%BC%82%E6%AD%A5/"/>
+    
+      <category term="选择器" scheme="http://yoursite.com/tags/%E9%80%89%E6%8B%A9%E5%99%A8/"/>
+    
+  </entry>
+  
+</feed>
